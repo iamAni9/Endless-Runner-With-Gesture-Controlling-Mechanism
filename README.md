@@ -1,6 +1,6 @@
 # Endless-Runner-With-Gesture-Controlling-Mechanism
 <strong>Steps to play on your device-</strong>
-1) Download all the folders.
+1) Download all the files.
 2) Download and install the python 3.7 version (Only version 3.7x other versions will not work) https://www.python.org/downloads/release/python-370/ 
 3) Open the terminal and run the following commands <br>
    <strong> pip install mediapipe <br>
