@@ -11,4 +11,6 @@
 
 <strong> If the Gesture Controlling Mechanism don't work then run the follwing commands in the terminal </strong> <br>
 &emsp; netstat -ano | findstr :5052 <br>
-&emsp; taskkill /F /PID "Process ID"
+&emsp; taskkill /F /PID "Process ID" <br><br>
+![exp_image1](https://user-images.githubusercontent.com/108063755/221208985-f3203616-ccbe-4655-9ec5-7ab30e85f983.png)
+![exp_image2](https://user-images.githubusercontent.com/108063755/221209008-cde32cec-a972-461e-aca0-4d1cd6da3672.png)
