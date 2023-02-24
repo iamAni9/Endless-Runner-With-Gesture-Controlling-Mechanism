@@ -5,7 +5,7 @@
 3) Open the terminal and run the following commands <br>
    <strong> pip install mediapipe <br>
    pip install opencv-python </strong>
-4) Run the recoginition.py file first
+4) Run the recoginition.py file first.
 5) Open the Project1.exe
 
 
