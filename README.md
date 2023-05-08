@@ -1,4 +1,5 @@
 # Endless-Runner-With-Gesture-Controlling-Mechanism
+<h6>Project Partner : Abdul Ahad</h6>
 <strong>Steps to play on your device-</strong>
 1) Download all the files.
 2) Download and install the python 3.7 version (Only version 3.7x because other versions even the latest one will not work) https://www.python.org/downloads/release/python-370/ 
