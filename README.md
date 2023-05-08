@@ -1,15 +1,16 @@
 # Endless-Runner-With-Gesture-Controlling-Mechanism
 <h6>Project Partner : Abdul Ahad</h6>
-<strong>Steps to play on your device-</strong>
-1) Download all the files.
-2) Download and install the python 3.7 version (Only version 3.7x because other versions even the latest one will not work) https://www.python.org/downloads/release/python-370/ 
+<strong>Steps to play on your device-</strong> <br>
+1) Download all the files. <br>
+2) Download and install the python version (3.7x - 3.10x). (Mediapipe only works with python 3.7x - 3.10x) <br>
+https://www.python.org/downloads/windows/ <br>
 3) Open the terminal and run the following commands <br>
-   <strong> pip install mediapipe <br>
-   pip install opencv-python </strong>
-4) Run the recoginition.py file first.
-5) Open the Project1.exe
+   &nbsp&nbsp&nbsp&nbsp&nbsp<strong>pip install mediapipe <br>
+   &nbsp&nbsp&nbsp&nbsp&nbsppip install opencv-python </strong> <br>
+4) Run the recoginition.py file first. <br>
+5) Open the Project1.exe <br>
 
-
+<br>
 <strong> If the Gesture Controlling Mechanism don't work then run the follwing commands in the terminal </strong> <br>
 &emsp; netstat -ano | findstr :5052 <br>
 &emsp; taskkill /F /PID "Process ID" <br><br>
